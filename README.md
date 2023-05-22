@@ -32,5 +32,8 @@ Keyin qaysi platformaga yasavotgan bo'lseyz o'shanga yarasha komanda bering.
 
 Masalan: `npm studio` komandasini berganizdan keyin `android studio` ochiladi. Keyin android studio o'zidan proyektni run qilib ishlatib ko'rish yoki build qilib tayyor apk (yoki google so'ravotgan yangicha formatga) chiqarib olseyz bo'ladi. 
 
-Capacitorni o'zidan ham to'g'ridan-to'g'ri tayyor ilova build qilsa bo'ladi, lekin bu process murakkabligi sabab bu loyihaga qo'shib o'tirmadim. Uni o'ziz qarab ko'rseyz bo'ladi - https://capacitorjs.com/docs/android
+Capacitorni o'zidan ham to'g'ridan-to'g'ri tayyor ilova build qilsa bo'ladi, lekin bu process murakkabligi sabab bu loyihaga qo'shib o'tirmadim. Uni o'ziz qarab ko'rseyz bo'ladi - 
+
+https://capacitorjs.com/docs/android
+
 https://capacitorjs.com/docs/ios
