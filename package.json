@@ -8,6 +8,7 @@
     "mobile"
   ],
   "scripts": {
+    "install": "npx cap add android && npx cap add ios",
     "start": "explorer http://127.0.0.1:3000 & vite",
     "studio": "npx cap open android",
     "xcode": "npx cap open ios",
