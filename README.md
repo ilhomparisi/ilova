@@ -28,7 +28,7 @@ npm i -g capacitor/cli
 
 ## Batafsil
 
-Birinchi src papkaga kirib, ilovani kompyuter browserodan ko'rib o'zizga moslab to'g'rilab oling. Ichiga bootstrap, tailwindcss yoki materialize'larni qo'shseyz bo'ladi. HTML5 ham ishladi. 
+Birinchi src papkaga kirib, ilovani kompyuter browseridan ko'rib, o'zizga moslab, to'g'rilab oling. Ichiga bootstrap, tailwindcss yoki materialize'larni qo'shseyz bo'ladi. HTML5 ham ishladi. 
 `npm start` komandasini berib nima qivotganizni jonli efirda ko'rib turseyz bo'ladi
 
 Oxirida, loyihani bitirib bo'lganizdan keyin, jonli efirdan terminate (ctrl+c) bilan chiqib ketib `npm run build` komandasini yurg'izing.
