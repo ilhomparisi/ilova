@@ -27,7 +27,7 @@ npm i -g capacitor/cli
 Birinchi src papkaga kirib, ilovani kompyuter browserodan ko'rib o'zizga moslab to'g'rilab oling. Ichiga bootstrap, tailwindcss yoki materialize'larni qo'shseyz bo'ladi. HTML5 ham ishladi. 
 `npm start` komandasini berib nima qivotganizni jonli efirda ko'rib turseyz bo'ladi
 
-Oxirida, loyihani bitirib bo'lib `npm build` komandasi orqali dist papkaga oling.
+Oxirida, loyihani bitirib bo'lganizdan keyin, jonli efirdan terminate (ctrl+c) bilan chiqib ketib `npm build` komandasini yurg'izing.
 Keyin qaysi platformaga yasavotgan bo'lseyz o'shanga yarasha komanda bering. 
 
 Masalan: `npm studio` komandasini berganizdan keyin `android studio` ochiladi. Keyin android studio o'zidan proyektni run qilib ishlatib ko'rish yoki build qilib tayyor apk (yoki google so'ravotgan yangicha formatga) chiqarib olseyz bo'ladi. 
