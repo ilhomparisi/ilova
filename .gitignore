@@ -3,6 +3,8 @@ node_modules/
 
 # Special folder
 dist/
+android/
+ios/
 
 # Optional npm cache directory
 .npm
