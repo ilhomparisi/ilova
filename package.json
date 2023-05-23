@@ -12,7 +12,7 @@
     "start": "explorer http://127.0.0.1:3000 & vite",
     "studio": "npx cap open android",
     "xcode": "npx cap open ios",
-    "build": "npx cap sync && vite build"
+    "build": "vite build && npx cap sync"
   },
   "dependencies": {
     "@capacitor/android": "^5.0.3",
