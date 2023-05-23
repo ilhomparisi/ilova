@@ -6,8 +6,7 @@ dist/
 android/
 ios/
 
-# Optional npm cache directory
+# Optional directory
 .npm
-
-# dotenv environment variables file
 .env
+.vscode
